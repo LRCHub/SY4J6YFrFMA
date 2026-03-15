@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "アリシア",
+  "base_artist": "ClariS",
+  "createdAt": "2026-03-15T17:34:20.469257Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アリシア",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/01_アリシア_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アリシア",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/02_アリシア_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アリシア",
+      "artist": "The Birthday",
+      "has_synced": false,
+      "path": "select/03_アリシア_The_Birthday.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アリシア",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/04_アリシア_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アリシア",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/05_アリシア_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アリシア -season 03-",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/06_アリシア_-season_03-_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "tr01_事務的ドSシスター・アリシア",
+      "artist": "①⑨①⑨LAB",
+      "has_synced": true,
+      "path": "select/07_tr01_事務的ドSシスター・アリシア_1919LAB.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アリシア",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/pl_01_アリシア_ClariS.txt"
+    }
+  ]
+}
